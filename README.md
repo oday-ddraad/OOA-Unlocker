@@ -6,9 +6,7 @@
 ![License](https://img.shields.io/badge/License-Commercial-red) 
 ![Platform](https://img.shields.io/badge/Platform-Windows-blue) 
 
-<div align="right">
-<a href="README_AR.md">عرض باللغة العربية</a>
-</div>
+
 
 ## ✨ Core Features / الميزات الأساسية
 - **Ad-Free Experience**  
